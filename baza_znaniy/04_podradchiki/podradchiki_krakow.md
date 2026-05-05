@@ -19,11 +19,17 @@
 
 | Фирма | NIP | Контакт / Сайт | Пруфы / Отзывы | Статус |
 |---|---|---|---|---|
-| **Kapitan Remont** | ⚠️ Запросить | [kapitanremont.pl](https://kapitanremont.pl), ☎ 730-647-015 | ✅ Favore 5/5, Google Maps +, Piękny Kraków рейтинг | 🔲 Не звонили |
-| **Brilia Sp. z o.o.** | **9442278352** | [brilia.pl](https://brilia.pl), ☎ 536-967-370 | ✅ Oferteo 5/5, KRS подтверждён (0000990756) | 🔲 Не звонили |
+| **Kapitan Remont** | ⚠️ Запросить | [kapitanremont.pl](https://kapitanremont.pl) | ✅ Favore 5/5, Google Maps + | 🔲 Не звонили |
+| **Brilia Sp. z o.o.** | **9442278352** | [brilia.pl](https://brilia.pl) | ✅ Oferteo 5/5, KRS подтверждён | 🔲 Не звонили |
+| **Łazienka Dziś** | ⚠️ Запросить | [lazienka-dzis.pl](https://lazienka-dzis.pl) | 💡 Цены: 3000-4500 PLN/м² | 🔲 Не звонили |
+| **CleanWhale** | ⚠️ Запросить | [cleanwhale.pl](https://krakow.cleanwhale.pl) | ⚠️ Расхождения цен в RU/UK/PL версиях | 🔲 Не звонили |
+| **Euromed-Bud** | ⚠️ Запросить | [euromed-bud.pl](https://euromed-bud.pl) | 💡 Цены: от 1200 PLN/м² | 🔲 Не звонили |
 | _(Fixly/HomeRun)_ | — | Заявка через платформу | Верифицированные отзывы на платформе | 🔲 Не размещали |
 
-> **Отвергнуты:** S-Classic/S-Remont (сайт мёртв, юрлицо не найдено), V-Studio (чужая веб-студия в Żywiec), New Point (домен не существует). Подробности → [`issledovanie_podradchikov.md`](./issledovanie_podradchikov.md)
+> **Отвергнуты:** S-Classic/S-Remont (сайт мёртв), V-Studio (Żywiec), New Point (домен мёртв). Подробности → [`issledovanie_podradchikov.md`](./issledovanie_podradchikov.md)
+> 
+> [!WARNING]
+> **Языковая ловушка цен (Insight 2025):** Обнаружено, что некоторые компании (например, CleanWhale) указывают разные цены для разных языковых версий сайта: 900-1800 zł (UK), 1500-3000 zł (RU) и 3000+ zł (PL). При запросе сметы обязательно сверяйте данные и ссылайтесь на наиболее выгодные актуальные прайсы.
 
 ---
 
