@@ -51,7 +51,8 @@ baza_znaniy/
 │
 ├── 07_instrumenty/                  ← инструменты и методологии поиска
 │   ├── search_skill_prompt.md          prompt для мультиязычного поискового агента (Haiku)
-│   └── test_multilingual_search.md     результаты A/B теста поиска
+│   ├── test_multilingual_search.md     результаты A/B теста поиска
+│   └── scalablejs.md                   доступ к ScalableJS и URL remote project
 │
 └── 07_vdohnovenie/                  ← референсы, идеи дизайна
     ├── stil_koncepciya.md              общая концепция стиля
@@ -89,6 +90,7 @@ baza_znaniy/
 | Стратегия VAT, экономия             | `05_finansy/vat_8_percent.md`                       |
 | Сравнение смет                      | `05_finansy/sravnenie_predlozheniy.md`              |
 | Юридика, нормы, разрешения          | `06_pravo_dokumenty/`                               |
+| Доступы к сервисам / аккаунтам      | `07_instrumenty/`                                   |
 | Дизайн-идеи, референсы             | `07_vdohnovenie/`                                   |
 | Всё о кухне (техника, мебель, распил)| `08_kuhnya/`                                        |
 
@@ -110,6 +112,7 @@ baza_znaniy/
 | `08_kuhnya/elita_kuhnya_razdelnyi_zakaz.md`   | ✅ Готов      | 2026-05-03      |
 | `08_kuhnya/sravnenie_cen_kuhnya.md`           | ✅ Готов      | 2026-05-03      |
 | `09_tumbochka_tv/proekt_tumby.md`             | ✅ Готов      | 2026-05-03      |
+| `07_instrumenty/scalablejs.md`                | ✅ Готов      | 2026-05-05      |
 | `05_finansy/vat_8_percent.md`                 | ✅ Готов      | 2026-04-26      |
 | `02_remont_etapy/00_obshchiy_plan.md`         | ✅ Готов      | 2026-04-26      |
 | `02_remont_etapy/01_demolazh.md`              | ✅ Готов      | 2026-04-26      |
