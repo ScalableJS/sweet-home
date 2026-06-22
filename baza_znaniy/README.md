@@ -51,7 +51,7 @@ baza_znaniy/
 │
 ├── 06_pravo_dokumenty/              ← юридика, документы, нормы
 │   ├── ✅ normy_powierzchni.md         нормы подсчёта площади в Польше (PN-70, ISO 9836)
-│   ├── 🔲 przebicie_sciany_nosnej.md   портал в несущей стене: pozwolenie + экспертиза + wspólnota
+│   ├── 🔍 przebicie_sciany_nosnej.md   портал в несущей стене: pozwolenie + экспертиза + wspólnota
 │   └── 🔲 biala_lista_vat.md           как проверить фирму (NIP, Biała Lista)
 │
 ├── 07_instrumenty/                  ← инструменты и методологии поиска
@@ -104,6 +104,7 @@ baza_znaniy/
 | Файл                                          | Статус        | Дата обновления |
 |-----------------------------------------------|---------------|-----------------|
 | `06_pravo_dokumenty/normy_powierzchni.md`     | ✅ Готов      | 2026-04-23      |
+| `06_pravo_dokumenty/przebicie_sciany_nosnej.md` | 🔍 В работе | 2026-06-22      |
 | `03_materialy/inzhenernaya_doska.md`          | ✅ Готов      | 2026-04-26      |
 | `03_materialy/santehnika_dush.md`             | ✅ Готов      | 2026-06-22      |
 | `04_podradchiki/podradchiki_krakow.md`        | ✅ Готов      | 2026-04-26      |

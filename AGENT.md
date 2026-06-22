@@ -142,5 +142,7 @@ Greppable, человекочитаемо, без парсера. Закрыты
 - [ ] Обзвонить новых подрядчиков (`Łazienka Dziś`, `Euromed-Bud`)
 - [ ] Получить сметы и заполнить `sravnenie_predlozheniy.md`
 - [ ] Уточнить площади из техплана → заполнить заглушку `01_kvartira/dokumenty.md`
-- [ ] Юридика портала в несущей стене → создать `06_pravo_dokumenty/przebicie_sciany_nosnej.md` (pozwolenie + экспертиза + согласие wspólnoty)
-- [ ] Зафиксировать в `vat_8_percent.md` ловушку «одна фактура vs покупаю материалы сам»
+- [x] Юридика портала в несущей стене → `06_pravo_dokumenty/przebicie_sciany_nosnej.md` (pozwolenie + экспертиза + согласие wspólnoty)
+- [x] Зафиксировать в `vat_8_percent.md` ловушку «одна фактура vs покупаю материалы сам»
+- [ ] Запросить архивный проект дома (2010 г.) у wspólnoty → подтвердить статус стены кухня↔комната
+- [ ] Найти конструктора с uprawnienia для ekspertyzy (портал) → `04_podradchiki/`
