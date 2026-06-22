@@ -34,7 +34,8 @@ baza_znaniy/
 ├── 03_materialy/                    ← исследования по материалам (что купить)
 │   ├── ✅ inzhenernaya_doska.md        инженерная доска (бренды, характеристики, цены)
 │   ├── ✅ santehnika_dush.md           сантехника для душа и гиг. душа (модели, цены)
-│   ├── 🔍 plitka_vannaya.md            плитка для ванной (Venis vs Cerrad Softcement)
+│   ├── 🔍 plitka_vannaya.md            плитка для ванной (Venis/Cerrad/Paradyż/Tubądzin)
+│   ├── 🔍 pol_pod_derevo_koridor.md    пол под дерево коридор/кухня (Acero/Wildland/Wood Grain)
 │   └── 🔲 shtukaturka_kraska.md        штукатурка, грунт, краска
 │
 ├── 04_podradchiki/                  ← подрядчики, фирмы, контакты
@@ -108,6 +109,7 @@ baza_znaniy/
 | `03_materialy/inzhenernaya_doska.md`          | ✅ Готов      | 2026-04-26      |
 | `03_materialy/santehnika_dush.md`             | ✅ Готов      | 2026-06-22      |
 | `03_materialy/plitka_vannaya.md`              | 🔍 В работе   | 2026-06-23      |
+| `03_materialy/pol_pod_derevo_koridor.md`      | 🔍 В работе   | 2026-06-23      |
 | `04_podradchiki/podradchiki_krakow.md`        | ✅ Готов      | 2026-04-26      |
 | `04_podradchiki/voprosy_podradchiku.md`       | ✅ Готов      | 2026-04-26      |
 | `04_podradchiki/issledovanie_podradchikov.md` | ✅ Готов      | 2026-04-26      |
