@@ -19,6 +19,16 @@ case "$path" in
   *) exit 0 ;;
 esac
 
+# Только файлы внутри этого проекта. Память Claude (~/.claude/...) и прочее
+# вне корня репозитория — не наше дело.
+proj="${CLAUDE_PROJECT_DIR:-}"
+if [ -n "$proj" ]; then
+  case "$path" in
+    "$proj"/*) ;;
+    *) exit 0 ;;
+  esac
+fi
+
 base="${path##*/}"
 
 # Внутри базы знаний — всегда ок.
