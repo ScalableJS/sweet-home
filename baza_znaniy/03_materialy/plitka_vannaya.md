@@ -203,7 +203,7 @@
 
 - 📄 **Paradyż Harmony** — сохранён в репо: [`pdf/paradyz_harmony_katalog.pdf`](./pdf/paradyz_harmony_katalog.pdf) (стр. 268–269: аранжировка ванной, патчворк, пол под дерево).
 - 📄 **Cerrad Softcement Silver 60×120** datasheet: [`pdf/cerrad_softcement_silver_60x120_datasheet.pdf`](./pdf/cerrad_softcement_silver_60x120_datasheet.pdf). Полная презентация коллекции: cerrad.com/wp-content/uploads/cerrad-softcement-pres-1.pdf
-- 📄 **Tubądzin Sfumato** — в каталоге «Kolekcje 30×60 2023», **стр. 108–111** (просмотрено): valorecsempe.hu/wp-content/uploads/2024/02/TUBADZIN-Kolekcje-30x60-2023_compressed.pdf (19 МБ — ссылкой). Доп.: Lookbook 2024/25 · страница «Do pobrania»: tubadzin.pl/lp/do-pobrania
+- 📄 **Tubądzin Sfumato** — сохранён в репо: [`pdf/tubadzin_sfumato_katalog_30x60.pdf`](./pdf/tubadzin_sfumato_katalog_30x60.pdf) (каталог Kolekcje 30×60 2023, Sfumato на **стр. 108–111** — аранжировка ванной с hex-мозаикой). Доп.: Lookbook 2024/25 · tubadzin.pl/lp/do-pobrania
 - 📄 Cerrad datasheet на любой продукт: добавить `?datasheet=pdf` к URL товара.
 
 ## Ссылки
