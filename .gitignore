@@ -1,0 +1,11 @@
+# IDE
+.idea/
+
+# Copilot / прочие AI-тулзы, не относящиеся к базе знаний
+.github/copilot-instructions.md
+
+# OS
+.DS_Store
+
+# Claude Code локальные настройки (allow-лист machine-specific)
+.claude/settings.local.json
