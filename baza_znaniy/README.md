@@ -33,7 +33,7 @@ baza_znaniy/
 │
 ├── 03_materialy/                    ← исследования по материалам (что купить)
 │   ├── ✅ inzhenernaya_doska.md        инженерная доска (бренды, характеристики, цены)
-│   ├── ✅ santehnika_dush.md           сантехника для душа и гиг. душа (модели, цены)
+│   ├── ✅ santehnika_dush.md           сантехника: душ, гиг. душ, унитаз KOŁO (модели, цены)
 │   ├── ✅ kafel_obzor.md               навигатор по кафелю + ориентиры цен (ванная / кухня)
 │   ├── 🔍 plitka_vannaya.md            кафель ВАННЫХ (Venis/Cerrad/Paradyż/Tubądzin)
 │   ├── 🔍 pol_pod_derevo_koridor.md    пол под дерево КУХНЯ/КОРИДОР (Acero/Wildland/Wood Grain)
@@ -108,7 +108,7 @@ baza_znaniy/
 | `06_pravo_dokumenty/normy_powierzchni.md`     | ✅ Готов      | 2026-04-23      |
 | `06_pravo_dokumenty/przebicie_sciany_nosnej.md` | 🔍 В работе | 2026-06-22      |
 | `03_materialy/inzhenernaya_doska.md`          | ✅ Готов      | 2026-04-26      |
-| `03_materialy/santehnika_dush.md`             | ✅ Готов      | 2026-06-22      |
+| `03_materialy/santehnika_dush.md`             | 🔍 В работе   | 2026-06-23      |
 | `03_materialy/kafel_obzor.md`                 | ✅ Готов      | 2026-06-23      |
 | `03_materialy/plitka_vannaya.md`              | 🔍 В работе   | 2026-06-23      |
 | `03_materialy/pol_pod_derevo_koridor.md`      | 🔍 В работе   | 2026-06-23      |

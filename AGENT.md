@@ -134,7 +134,7 @@ Greppable, человекочитаемо, без парсера. Закрыты
 |------|------------|
 | [`baza_znaniy/06_pravo_dokumenty/normy_powierzchni.md`](./baza_znaniy/06_pravo_dokumenty/normy_powierzchni.md) | Нормы подсчёта площади в Польше (PN-70, ISO 9836 1997/2015/2022) |
 | [`baza_znaniy/03_materialy/inzhenernaya_doska.md`](./baza_znaniy/03_materialy/inzhenernaya_doska.md) | Инженерная доска Jawor-Parkiet: конструкция, цены, аксессуары |
-| [`baza_znaniy/03_materialy/santehnika_dush.md`](./baza_znaniy/03_materialy/santehnika_dush.md) | Душевой комплект (Deante Cascada) и гигиенический душ (Silia / Logis): цены, спецификации |
+| [`baza_znaniy/03_materialy/santehnika_dush.md`](./baza_znaniy/03_materialy/santehnika_dush.md) | Сантехника: душ (Deante Cascada), гиг. душ (Silia / Logis), унитаз KOŁO Nova Pro Premium: цены, спецификации |
 | [`baza_znaniy/04_podradchiki/podradchiki_krakow.md`](./baza_znaniy/04_podradchiki/podradchiki_krakow.md) | Список фирм Кракова (S-Classic, V-Studio, New Point), таблица оценок |
 | [`baza_znaniy/04_podradchiki/voprosy_podradchiku.md`](./baza_znaniy/04_podradchiki/voprosy_podradchiku.md) | Чек-лист вопросов при первом звонке |
 | [`baza_znaniy/04_podradchiki/issledovanie_podradchikov.md`](./baza_znaniy/04_podradchiki/issledovanie_podradchikov.md) | Исследование рынка: RU/UA фирмы Кракова, VAT 8%, Instagram vs сайты |
