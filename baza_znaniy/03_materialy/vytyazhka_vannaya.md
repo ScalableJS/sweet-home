@@ -90,6 +90,25 @@
 
 > ✅ **Подтверждено офиц. Blauberg (серия Sileo):** «motor on **ball bearings**, overheating protection, **maintenance-free** operation» — это и есть надёжный мотор без излишеств. Дизайн-панель (Design) — переплата, тебе не нужна.
 
+#### 🥇 Blauberg Flyn EC / Flyn Still EC — топ по мотору (но ждать до осени)
+
+Обе серии — **EC-мотор** (electronically commutated, **brushless / бесщёточный**). Blauberg прямо: нет угольных щёток → минимум трения и износа, сверхнизкое потребление, высокий КПД. По классу мотора это **выше DC и AC** — ровно критерий «лучший мотор».
+
+| | Flyn EC | **Flyn Still EC** |
+|---|---|---|
+| Поток | **87 m³/h** (мощнее) | 50 m³/h |
+| Шум | 34 dB | **22 dB** (очень тихо) |
+| Мощность | 2,7 Вт | 2 Вт |
+| Скорости | 1 | 1 |
+| Профиль | короткий фланец, больше потока | оптимизирован под тишину |
+
+- 💡 **Для ванной лучше Flyn Still EC** (22 dB — тише Sileo и почти всех). Flyn EC — если нужен бо́льший воздухообмен ценой шума.
+- ✅ EC brushless сам решает проблему износа (нет щёток) — это даже важнее типа подшипника.
+- ⚠️ **Доступность: к осени.** В каталоге Blauberg Flyn Still EC = «Coming soon»; на польском рынке пока нет. Это **будущая закупка**.
+- ⚠️ 1 скорость; версии с таймером/влажностью уточнять при выходе.
+- **Вердикт:** если сроки ремонта дотягивают до осени — **Flyn Still EC приоритетный вариант** (лучший мотор + 22 dB). Если вентилятор нужен раньше — **Sileo DC** как доступная замена того же класса «хороший мотор».
+- [ ] Осенью проверить выход Flyn Still EC на польский рынок (цена, версии T/H, наличие).
+
 #### ❌ Blauberg Blume — рассмотрена, НЕ подходит под критерий
 
 Серия **Blume** (Ø100, 97 m³/h, 25 dB, фишка — **датчик движения / IR**, версии S/T/TR/ST/H/SH/IR):
@@ -105,6 +124,13 @@
 - Aero Still / Calm / Cabrio — **отбросить** (бюджет, проще).
 - ⚠️ Буквы: **T** = таймер, **H** = влажность (бывает H+T — уточнять маркировку).
 - [ ] Сравнить цену **Sileo DC 100T/H** vs **Sileo 100T/H** vs наш **VENTS Quiet Mild Duo 100T/TH** — выбрать лучший мотор в разумной цене (целевой коридор ~250–400 zł, не Design за 676).
+
+### 🏁 Итоговая иерархия выбора (по мотору)
+
+1. 🥇 **Blauberg Flyn Still EC** — EC brushless, 22 dB. Лучший мотор. **НО ждать до осени** (Coming soon). Брать, если сроки ремонта дотягивают.
+2. 🥈 **Blauberg Sileo DC 100** — DC-мотор, шарикоподшипник, доступен сейчас. Лучшая доступная замена.
+3. 🥉 **Blauberg Sileo 100 / VENTS Quiet Mild Duo** — AC + шарикоподшипник, проверенный рабочий уровень.
+4. ❌ Blume (Classic, без ball bearing), Aero/Calm/Cabrio (бюджет), Design-версии (переплата за крышку).
 
 ---
 
@@ -141,3 +167,5 @@
 - Blauberg каталог осевых вентиляторов: blaubergventilatoren.net/catalog/residential-axial-fans/
 - Blauberg Sileo (серия, ball bearings): blaubergventilatoren.net/series/sileo · Sileo DC 100: /product/sileo-dc-100
 - Blauberg Sileo 100 (дилеры PL): anplast.pl (~285), e-katalog.pl (249–281)
+- Blauberg Flyn Still EC (EC, 22 dB, coming soon): blaubergventilatoren.net/series/flyn-still-ec/
+- Blauberg Flyn EC (EC, 87 m³/h): blaubergventilatoren.net/series/flyn-ec/
