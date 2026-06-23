@@ -136,7 +136,7 @@ baza_znaniy/
 | `02_remont_etapy/01_demolazh.md`              | ✅ Готов      | 2026-04-26      |
 | `02_remont_etapy/02_elektryka.md`             | ✅ Готов      | 2026-04-26      |
 | `02_remont_etapy/02_stena_tv_klima.md`        | ✅ Готов      | 2026-06-17      |
-| `02_remont_etapy/08_klimatyzacja_rekuperacja.md` | ✅ Готов   | 2026-06-17      |
+| `02_remont_etapy/08_klimatyzacja_rekuperacja.md` | ✅ Готов   | 2026-06-23      |
 | `05_finansy/sravnenie_predlozheniy.md`        | ✅ Шаблон     | 2026-04-26      |
 | `01_kvartira/dokumenty.md`                    | 🔲 Заглушка   | 2026-06-22      |
 | `05_finansy/byudzhet.md`                      | 🔲 Не начат   | —               |
