@@ -34,7 +34,7 @@ baza_znaniy/
 ├── 03_materialy/                    ← исследования по материалам (что купить)
 │   ├── ✅ inzhenernaya_doska.md        инженерная доска (бренды, характеристики, цены)
 │   ├── ✅ santehnika_dush.md           сантехника: душ, гиг. душ, унитаз KOŁO (модели, цены)
-│   ├── 🔍 vytyazhka_vannaya.md         вытяжной вентилятор ванной (VENTS vs Awenta)
+│   ├── 🔍 vytyazhka_vannaya.md         вытяжной вентилятор ванной (VENTS / Awenta / Blauberg)
 │   ├── ✅ kafel_obzor.md               навигатор по кафелю + ориентиры цен (ванная / кухня)
 │   ├── 🔍 plitka_vannaya.md            кафель ВАННЫХ (Venis/Cerrad/Paradyż/Tubądzin)
 │   ├── 🔍 pol_pod_derevo_koridor.md    пол под дерево КУХНЯ/КОРИДОР (Acero/Wildland/Wood Grain)
